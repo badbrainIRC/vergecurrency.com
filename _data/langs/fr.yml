@@ -9,6 +9,8 @@ nav:
     title: "À Propos"
   exchanges:
     title: "Obtenir Verge"
+  vendors:
+    title: "Vendeurs"
   wallets:
     title: "Portefeuilles"
   roadmap:
@@ -29,11 +31,15 @@ close: "Fermer"
 download: "Télécharger"
 view: "Vue"
 view_all_wallets: "Voir tous les portefeuilles"
+contest_enter: "Entrez pour une chance de gagner 70,000 Verge"
+mission:
+  header: "Notre Mission"
+  paragraph: "Notre mission est de redonner le pouvoir aux gens dans le monde entier en leur apportant les transactions de la blockchain dans leur quotidien. La monnaie Verge rend possible de s'engager dans des transactions directe et rapide, efficace et anonymes. Avec Verge, les entreprises et les individus ont des options flexibles pour envoyer et recevoir des paiements. En un tour de main, nous offrons des outils qui leurs permettent de mieux gérer les transactions a grande échelles entre les marchands et les paiments privés a petite échelle."
 info:
   about:
     header: "A propos"
     paragraph: "Verge est une devise electronique décentralisée conçue pour les utilisateurs qui apprécient le respect de l'intimité. Elle améliore la blockchain original du bitcoin en utilisant des réseaux multiples axés sur l'anonymat tels que Tor et i2p. Elle utilise également un support d'exploration de type multi-algorithmes pour améliorer la sécurité et fournir une répartition égale de monnaie électronique aux mineurs."
-  cards:
+    cards:
       privacy:
         header: "Complètement anonyme et se concentre sur la vie privée"
         paragraph: "Verge utilise plusieurs réseaux centrés sur l'anonymité comme Tor et I2P. L'addresse IP de l'utilisateur est obfusquée la transaction est complètement non-retracable."
